@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CaroServer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CaroServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
